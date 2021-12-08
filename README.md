@@ -10,7 +10,7 @@
 
 ## 脚本效果：
 
-![display](D:\Ryan\OneDrive - csu.edu.cn\snake\study\no_2\auto_reply\image\display.PNG)
+![image](https://github.com/Ryan-dodo/-wechat-auto-reply-/blob/main/image/display.PNG)
 
 回复的文字、表情包支持自定义，再说一遍，只能回复英文，或者自行复制中文粘贴来实现。
 
